@@ -1,0 +1,36 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+.clients-row {
+    margin-top: 40px;
+}
+
+.clients img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+.clients1 img,
+.clients2 img {
+    max-width: 160px;
+    margin-bottom: 20px;
+}
+
+.clients3 img {
+    max-width: 100px;
+}
+
+section,
+footer {
+    padding: 20px 0;
+}
